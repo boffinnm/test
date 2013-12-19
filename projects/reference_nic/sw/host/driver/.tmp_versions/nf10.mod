@@ -1,0 +1,2 @@
+/local/scratch-1/nm525/workbench/ppon/manihatn/NetFPGA-10G-live/projects/reference_nic/sw/host/driver/nf10.ko
+/local/scratch-1/nm525/workbench/ppon/manihatn/NetFPGA-10G-live/projects/reference_nic/sw/host/driver/nf10driver.o /local/scratch-1/nm525/workbench/ppon/manihatn/NetFPGA-10G-live/projects/reference_nic/sw/host/driver/nf10iface.o /local/scratch-1/nm525/workbench/ppon/manihatn/NetFPGA-10G-live/projects/reference_nic/sw/host/driver/nf10fops.o /local/scratch-1/nm525/workbench/ppon/manihatn/NetFPGA-10G-live/projects/reference_nic/sw/host/driver/nf10priv.o
